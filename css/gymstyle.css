@@ -1,0 +1,33 @@
+body {
+  background: url("../images/bgGym.jpg") no-repeat center fixed;
+  background-size: cover;
+  font-family: "Shadows Into Light", cursive;
+}
+
+div {
+  background-color: lightblue;
+  width: 40%;
+  margin: 100px auto;
+  text-align: center;
+  border-radius: 25px;
+  opacity: 0.8;
+}
+
+button {
+  background: rgba(50, 50, 50, 50);
+  padding: 20px;
+  color: white;
+  font-size: 2em;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 4em;
+}
+p {
+  font-size: 1.8em;
+}
+i {
+  font-size: 1em;
+  color: burlywood;
+}
